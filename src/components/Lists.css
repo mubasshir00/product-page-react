@@ -1,0 +1,20 @@
+.listContent h2{
+    padding-bottom: 10px;
+    color: #5e5e5e;
+    padding: 10px 0px;
+}
+.listContent p{
+    padding-top: 20px;
+    padding-bottom: 5px;
+    color: grey;
+}
+.listContent ul{
+    /* padding: 20px; */
+}
+.listContent li{
+    color: grey;
+    line-height: 1.7;
+}
+.listContainer{
+    padding: 10px 40px;
+}

@@ -1,0 +1,56 @@
+.reviews{
+    color: #747474;
+}
+.reviews hr{
+    font-size: 1px;
+}
+.reviewShow{
+    display: flex;
+    font-size: 24px;
+}
+.reviewHead{
+    padding-bottom: 10px;
+}
+
+.reviewShow .text{
+    padding-right: 10px;
+    font-size: 21px;
+}
+.ratingStar{
+    display: flex;
+    color: goldenrod;
+}
+
+.reviewsContainer{
+    padding-top: 20px;
+}
+
+.reviewCardHead {
+    background-color: #ececec;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid #cecece;
+}
+.card{
+    border: 1px solid #cecece;
+    margin-bottom: 20px;
+    /* border-radius: 4px; */
+}
+.ratingDes{
+    padding: 20px;
+}
+
+.reviewTitleLeft{
+    display: flex;
+}
+.reviewTitleLeft .ratingStar{
+    margin-right: 10px;
+}
+.card span{
+    font-weight: bolder;
+}
+
+.positive , .negative{
+    display: flex;
+}

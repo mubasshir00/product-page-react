@@ -1,0 +1,38 @@
+.priceBox{
+    background: white;
+    padding: 15px 25px;
+    border: 1px solid #e1e8ed;
+    border-radius: 4px;
+    margin-bottom: 16px;
+}
+.priceBox .btn{
+    box-shadow: 0 2px 0 #6f9a37;
+    background-color: #82b440;
+    width: 100%;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.priceBox .btn:hover{
+    background-color:#699232 ;
+}
+.priceData{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.priceTitle{
+    font-size: 20px;
+}
+.price{
+    font-size: 40px;
+    color: #82b440;
+}
+.priceUpgrade{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.priceUpgrade p{
+    padding: 20px 10px;
+    color: grey;
+}

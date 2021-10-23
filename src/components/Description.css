@@ -1,0 +1,11 @@
+.descriptionWrapper h2{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.desContent{
+    padding-top: 20px;
+}
+.desContent p{
+    color: grey;
+    line-height: 1.7;
+}

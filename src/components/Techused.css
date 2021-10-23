@@ -1,0 +1,25 @@
+.techContainer{
+     background: white;
+    padding: 15px 25px;
+    border: 1px solid #e1e8ed;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    justify-content: center;
+    display: flex;
+    /* text-align: center; */
+    flex-direction:column;
+    /* display: grid;
+    grid-template-columns: repeat(3,1fr); */
+}
+h3{
+    text-align: center;
+    margin: 10px 10px;
+}
+.techContent p{
+    color: grey;
+    line-height: 1.7;
+}
+span {
+    color: #1f1f1f;
+    font-weight: bolder;
+}
